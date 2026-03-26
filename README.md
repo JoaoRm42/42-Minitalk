@@ -8,7 +8,6 @@ Projeto `minitalk` da 42 com:
 ## Documentacao
 
 - Avaliacao: [README_EVALUATION.md](/c:/Users/Jo%C3%A3o%20Ramalhosa/Desktop/42-Commoncore/minitalk/README_EVALUATION.md)
-- Portfolio: [README_PORTFOLIO.md](/c:/Users/Jo%C3%A3o%20Ramalhosa/Desktop/42-Commoncore/minitalk/README_PORTFOLIO.md)
 
 ## Estado atual
 
