@@ -5,10 +5,6 @@ Projeto `minitalk` da 42 com:
 - bonus em `bonus/`
 - dependencia `ft_printf/`
 
-## Documentacao
-
-- Avaliacao: [README_EVALUATION.md](/c:/Users/Jo%C3%A3o%20Ramalhosa/Desktop/42-Commoncore/minitalk/README_EVALUATION.md)
-
 ## Estado atual
 
 - `norminette src bonus`: OK
